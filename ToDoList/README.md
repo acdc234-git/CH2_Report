@@ -41,7 +41,7 @@ ToDoList/
 <!-- 아래에 영상을 넣어주세요 -->
 
 
-Uploading Todo List - Chrome 2026-11-17 14-37-13.mp4…
+https://github.com/user-attachments/assets/1a99dee6-93b0-4f77-8fde-eae60ec79352
 
 
 

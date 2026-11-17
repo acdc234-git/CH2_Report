@@ -40,6 +40,11 @@ ToDoList/
 
 <!-- 아래에 영상을 넣어주세요 -->
 
+
+Uploading Todo List - Chrome 2026-11-17 14-37-13.mp4…
+
+
+
 ## 코드 설명
 
 ### 상태 관리

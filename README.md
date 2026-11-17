@@ -7,6 +7,7 @@ AX 1기 CH2 · CH3 평가 과제 모음입니다.
 | [`DATABASE_AI/`](DATABASE_AI/) | 데이터베이스 & AI 활용 | Supabase + FastAPI 로 회원·상품·주문 3개 테이블 CRUD 구현 |
 | [`CloneCoding/`](CloneCoding/) | 프론트엔드 — 클론 코딩 | 스파르타 PRO CAMP 랜딩 페이지 HTML + CSS 클론 |
 | [`ToDoList/`](ToDoList/) | 프론트엔드 — Todo 리스트 | 바닐라 JavaScript 로 추가·조회·수정·삭제 구현 |
+| [`NextTodo/`](NextTodo/) | 프론트엔드 응용 — Next.js | 회원가입·로그인 + 회원별 Todo (Supabase · Vercel 배포) |
 
 ## 데이터베이스 & AI 활용
 
@@ -33,3 +34,12 @@ AX 1기 CH2 · CH3 평가 과제 모음입니다.
 - 추가 · 조회(필터) · 수정 · 삭제 전부 동작
 - 완료 토글, 남은 개수 표시, `localStorage` 저장
 - 파일: `index.html` · `css/style.css` · `js/todo.js`
+
+## 프론트엔드 응용 (Next.js)
+
+Todo 리스트를 Next.js 로 다시 만들고 회원가입·로그인을 붙인 과제입니다.
+기능·테이블 구조·RLS 는 **[`NextTodo/README.md`](NextTodo/README.md)** 에 있습니다.
+
+- 스택: Next.js 16 (App Router) · React 19 · TypeScript · Supabase
+- 회원마다 자기 할 일만 조회·수정 (RLS 로 DB 단에서 보장)
+- 배포: Vercel
